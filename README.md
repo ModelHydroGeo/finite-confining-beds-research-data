@@ -2,7 +2,7 @@
 
 This package contains the processed numerical results underlying the quantitative figures and reported comparisons in the manuscript *Semi-analytical thermal coupling of geothermal reservoirs with semi-infinite and finite confining beds: formulation, verification and applications* (manuscript version 1.0).
 
-The data are organised by scientific application: local verification, the Barends layered cooling benchmark, advective cooling, and a Dogger-inspired geothermal doublet. CSV files use UTF-8 encoding, a comma delimiter, and a header row. Values have been copied from the existing v0.6 numerical-output collection without numerical recalculation, interpolation, or rounding. `closed_capacity_equilibria.csv` is a direct tabular conversion of the existing equilibrium JSON record; its values are unchanged.
+The data are organised by scientific application: local verification, the Barends layered cooling benchmark, advective cooling, and a Dogger-inspired geothermal doublet. CSV files use UTF-8 encoding, a comma delimiter, and a header row. Values have been copied from the existing numerical-output collection without numerical recalculation, interpolation, or rounding. `closed_capacity_equilibria.csv` is a direct tabular conversion of the existing equilibrium JSON record; its values are unchanged.
 
 ## Contents
 
