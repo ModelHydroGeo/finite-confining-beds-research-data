@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this research-data package, please cite it using the metadata below."
+title: "Research data for: Semi-analytical thermal coupling of geothermal reservoirs with semi-infinite and finite confining beds"
+type: dataset
+version: "1.0"
+date-released: 2026-10-24
+authors:
+  - family-names: Sbai
+    given-names: Mohammed Adil
+    affiliation: ModelHydroGeo
+preferred-citation:
+  type: dataset
+  authors:
+    - family-names: Sbai
+      given-names: Mohammed Adil
+  title: "Research data for: Semi-analytical thermal coupling of geothermal reservoirs with semi-infinite and finite confining beds"
+  version: "1.0"
+  date-released: 2026-10-24
+  notes: "Associated manuscript submitted to Geothermics; publication year and DOI are pending."
